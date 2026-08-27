@@ -1,5 +1,6 @@
 public class PascalTriangle{
     public static void main(String[] args){
+        System.out.println("--- Pascal Triangle ---");
         int value=Integer.parseInt(args[0]);
         int[][] list1=new int[value+1][value+1];
         for(int i=0;i<value+1;i++){
