@@ -6,7 +6,7 @@ public class Fal {
         System.out.print("Lütfen 1-10 arasında bir sayı giriniz:");
         sayı=scan.nextInt();
         if(sayı==1){
-
+          System.out.println("3 vakte kadar iyi bir haber alacaksın.");
         }
         else if(sayı==2){
 
