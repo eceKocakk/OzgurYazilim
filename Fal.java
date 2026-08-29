@@ -9,7 +9,7 @@ public class Fal {
           System.out.println("3 vakte kadar iyi bir haber alacaksın.");
         }
         else if(sayı==2){
-
+         System.out.println("Kariyer hayatında değişiklik olacak.");
         }
         else if(sayı==3){
 
